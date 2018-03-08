@@ -1,0 +1,3 @@
+# Details
+- author: tulasikrishna416@gmail.com
+- role: STUDENT
